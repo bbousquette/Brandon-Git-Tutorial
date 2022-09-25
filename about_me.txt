@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Brandon Bousquette, I'm a freshman in LSA, and my major is most likely going to be Data Science. Fun fact about me is that I'm a triplet!
